@@ -46,7 +46,10 @@ Here are some ideas to get you started:
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonjaehyun)](https://github.com/anuraghazra/github-readme-stats)
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moonjaehyun)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moonjaehyun&show_icons=true&theme=radical)
 </div>
+
 
 <a href="https://www.instagram.com/m._.jaehyun/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
