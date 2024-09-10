@@ -12,14 +12,17 @@
         <li>😀 My fields of interest include Large Language Models (LLM) and Computer Vision.</li>
     </ul>
 </div>
+<!-- 이 부분은 주석입니다. 마크다운 문서에 표시되지 않습니다. -->
 
 <div>
-    <h3>🛠 Tech Stack</h3>
+        <h3>🛠 Tech Stack</h3>
     <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=FFFFFF" alt="pandas" />
     <img src="https://img.shields.io/badge/opencv-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=FFFFFF" alt="opencv" />
     <img src="https://img.shields.io/badge/huggingface-FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=FFFFFF" alt="huggingface" />
-    <img src="https://img.shields.io/badge/langchain-04B404.svg?style=for-the-badge&logo=langchain&logoColor=FFFFFF" alt="pytorch" />
-    <img src="https://img.shields.io/badge/transformers-FF6F00.svg?style=for-the-badge&logo=transformers&
+    <!--<img src="https://img.shields.io/badge/langchain-04B404.svg?style=for-the-badge&logo=langchain&logoColor=FFFFFF" alt="langchain" />-->
+    <img src="https://img.shields.io/badge/pytorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=FFFFFF" alt="pytorch" />
+    <!--<img src="https://img.shields.io/badge/transformers-FF6F00.svg?style=for-the-badge&logo=transformers&logoColor=FFFFFF" alt="transformers" />-->
+
 </div>
 
 <div>
@@ -72,19 +75,12 @@
     <a href="https://github.com/maenjh/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maenjh&layout=compact&theme=city_lights" alt="Top Languages" />
     </a>
-</div>
 
- <br/>
- <br/>
   
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maenjh)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maenjh)](https://github.com/anuraghazra/github-readme-stats)
   
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maenjh&show_icons=true&theme=ambient_gradient)
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maenjh&show_icons=true&theme=ambient_gradient)-->
 
-
-<a href="https://www.instagram.com/mo._.jhon/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
