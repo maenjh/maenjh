@@ -62,14 +62,9 @@
 
 <div>
     <h3>📂 Featured Projects</h3>
-    <a href="https://github.comync">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=maenjh&repo=LectureSync&theme=city_lights" alt="Lject" />
+    <a href="https://github.com/maenjh/YourTrend-AI">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=maenjh&repo=YourTrend-AI&theme=city_lights" alt="Project 2" />
     </a>
-    <a href="https://github.com/maenjh/fake-review-detection">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=maenjh&repo=fake-review-detection&theme=city_lights" alt="Fake Review Detection Project" />
-    </a>
-</div>
-
 <div>
     <h3>🗂 Top Languages</h3>
     <a href="https://github.com/maenjh/github-readme-stats">
