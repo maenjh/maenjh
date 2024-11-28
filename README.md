@@ -62,8 +62,8 @@
 
 <div>
     <h3>📂 Featured Projects</h3>
-    <a href="https://github.com/maenjh/LectureSync">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=maenjh&repo=LectureSync&theme=city_lights" alt="LectureSync Project" />
+    <a href="https://github.comync">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=maenjh&repo=LectureSync&theme=city_lights" alt="Lject" />
     </a>
     <a href="https://github.com/maenjh/fake-review-detection">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=maenjh&repo=fake-review-detection&theme=city_lights" alt="Fake Review Detection Project" />
