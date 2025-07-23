@@ -70,7 +70,7 @@
 
 <div>
     <h3>🏆 GitHub Trophies</h3>
-    <img src="https://github-profile-trophy.vercel.app/?username=maenjh&theme=onedark&no-frame=true&row=1&column=6" alt="trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=maenjh&theme=discord&no-frame=true&row=1&column=6" alt="trophy" />
 </div>
 
 <div>
