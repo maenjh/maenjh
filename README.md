@@ -43,33 +43,6 @@
 
 <hr>
 
-### 📊 Statistics & Activities
+![Metrics](https://metrics.lecoq.io/maenjh?template=classic&languages=1&habits=1&calendar=1&people=1&code=1&achievements=1&projects=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&calendar=false&calendar.limit=4&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&projects=false&projects.limit=4&projects.descriptions=true&config.timezone=Asia%2FSeoul)
 
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=maenjh&theme=discord&no-frame=true&row=1" alt="trophy" />
-</div>
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=maenjh&show_icons=true&theme=city_lights&hide_border=true" alt="stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maenjh&layout=compact&theme=city_lights&hide_border=true" alt="languages" />
-</div>
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maenjh&repo=YourTrend-AI&theme=city_lights" alt="Project Pin" />
-</div>
-
-<hr>
-
-### 🎮 Contribution Art
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maenjh/maenjh/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maenjh/maenjh/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maenjh/maenjh/output/pacman-contribution-graph.svg">
-</picture>
-
-<img src="https://raw.githubusercontent.com/maenjh/maenjh/output/snake.svg" alt="Snake animation" />
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maenjh.maenjh" alt="visitors" />
-</div>
