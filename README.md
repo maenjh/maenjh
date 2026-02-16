@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=Jaehyun's%20GitHub&animation=fadeIn&height=180&fontSize=70&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=Jaehyun's%20GitHub&animation=fadeIn&height=180&fontSize=70&fontColor=#000000)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=500&size=30&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=안녕하세요!👋;Jaehyun의+GitHub에+오신+것을+환영합니다;끊임없이+배우고+성장하는+연구자+입니다.)](https://git.io/typing-svg)
 
