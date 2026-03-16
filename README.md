@@ -40,7 +40,7 @@
     <h3>📂 Projects</h3>
     <ul>
         <li><strong>🍲 재료 인식 기반 레시피 추천 시스템</strong> (2020.12~2021.06, 우수상)<br><em>Python, OpenCV, PyTorch</em></li>
-        <li><strong>🧠 YourTrendAI</strong> (2023.09~11)<br><em>Whisper, Streamlit, Docker, LLM</em></li>
+        <li><strong>🧠 YourTrendAI</strong> (2024.09~11)<br><em>Whisper, Streamlit, Docker, LLM</em></li>
         <li><strong>🛰 Plan Generator Hybrid System</strong> (2025.03~06)<br><em>FastAPI, Redis, Llama3, Docker</em></li>
     </ul>
 </div>
