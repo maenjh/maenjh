@@ -56,8 +56,7 @@
     <h3>📫 Contact</h3>
     <a href="mailto:jjmjh214@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="gmail" /></a>
     <a href="https://github.com/maenjh"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="github" /></a>
-    <a href="https://linkedin.com/in/maenjh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="linkedin" /></a>
-    <a href="https://x.com/maenjh"><img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="x" /></a>
+    <a href="https://www.linkedin.com/in/jaehyun-moon-a2699b373/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="linkedin" /></a>
     <a href="https://mjh.kr"><img src="https://img.shields.io/badge/Portfolio-FF5722.svg?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" alt="portfolio" /></a>
 </div>
 
