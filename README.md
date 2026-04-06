@@ -54,10 +54,12 @@
 
 <div>
     <h3>📌 Featured Repositories</h3>
-    <a href="https://github.com/maenjh/korean_legal_instruct"><img src="https://github-readme-stats.vercel.app/api/pin/?username=maenjh&repo=korean_legal_instruct&theme=default" alt="korean_legal_instruct" /></a>
-    <a href="https://github.com/maenjh/STAI-WaterNavigator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=maenjh&repo=STAI-WaterNavigator&theme=default" alt="STAI-WaterNavigator" /></a>
-    <a href="https://github.com/maenjh/A2A-Llama-debate"><img src="https://github-readme-stats.vercel.app/api/pin/?username=maenjh&repo=A2A-Llama-debate&theme=default" alt="A2A-Llama-debate" /></a>
-    <a href="https://github.com/maenjh/YourTrend-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=maenjh&repo=YourTrend-AI&theme=default" alt="YourTrend-AI" /></a>
+    <ul>
+        <li><a href="https://github.com/maenjh/korean_legal_instruct"><strong>korean_legal_instruct</strong></a> — 한국어 법률 instruction 데이터셋</li>
+        <li><a href="https://github.com/maenjh/STAI-WaterNavigator"><strong>STAI-WaterNavigator</strong></a> — 수상 안전 내비게이션 시스템</li>
+        <li><a href="https://github.com/maenjh/A2A-Llama-debate"><strong>A2A-Llama-debate</strong></a> — A2A 기반 Llama 토론 시스템</li>
+        <li><a href="https://github.com/maenjh/YourTrend-AI"><strong>YourTrend-AI</strong></a> — 유튜브 기반 AI 아이디어 생성 및 코드 개발</li>
+    </ul>
 </div>
 
 <div>
