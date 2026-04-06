@@ -53,6 +53,14 @@
 </div>
 
 <div>
+    <h3>📌 Featured Repositories</h3>
+    <a href="https://github.com/maenjh/korean_legal_instruct"><img src="https://github-readme-stats.vercel.app/api/pin/?username=maenjh&repo=korean_legal_instruct&theme=default" alt="korean_legal_instruct" /></a>
+    <a href="https://github.com/maenjh/STAI-WaterNavigator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=maenjh&repo=STAI-WaterNavigator&theme=default" alt="STAI-WaterNavigator" /></a>
+    <a href="https://github.com/maenjh/A2A-Llama-debate"><img src="https://github-readme-stats.vercel.app/api/pin/?username=maenjh&repo=A2A-Llama-debate&theme=default" alt="A2A-Llama-debate" /></a>
+    <a href="https://github.com/maenjh/YourTrend-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=maenjh&repo=YourTrend-AI&theme=default" alt="YourTrend-AI" /></a>
+</div>
+
+<div>
     <h3>📫 Contact</h3>
     <a href="mailto:jjmjh214@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="gmail" /></a>
     <a href="https://github.com/maenjh"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="github" /></a>
