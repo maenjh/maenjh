@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Moon%20Jaehyun&animation=fadeIn&height=200&fontSize=65&fontColor=%23000000)
+![header](https://capsule-render.vercel.app/api?type=waving&color=A7F3D0&text=Moon%20Jaehyun&animation=fadeIn&height=200&fontSize=65&fontColor=%23000000)
 
 <div align="center">
 
