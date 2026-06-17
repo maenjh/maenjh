@@ -2,13 +2,12 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=600&size=28&duration=3500&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=안녕하세요!👋;AI+Developer+%26+Engineer;배우고+실험한+것을+기록하고+공유합니다)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=600&size=28&duration=3500&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=Better+World+by;Leading+Breakthroughs;AI+Developer+%26+Engineer;배우고+실험한+것을+기록하고+공유합니다)](https://git.io/typing-svg)
 
 </div>
 
 <div>
     <h2>About ME</h2>
-    <p>인공지능을 공부하며 배운 것을 기록하고, 문제를 해결하는 과정을 공유합니다.</p>
     <ul>
         <li>🏫 제주한라대학교 인공지능학과</li>
         <li>💻 AI Developer & Engineer</li>
@@ -45,6 +44,7 @@
 <div>
     <h3>📂 Projects</h3>
     <ul>
+        <li><strong>📝 han-auto</strong> (2026.06~)<br><em>Python, MCP, CLI, Markdown, HWP/HWPX</em><br>Markdown 기반 한컴 HWP/HWPX 문서 생성 및 자동화 CLI/MCP 서버</li>
         <li><strong>🛰 Plan Generator Rule Based Hybrid System</strong> (2025.03~06)<br><em>A2A, MCP, LLM, FastAPI, Django, Redis, Docker</em><br>A2A 프레임워크 기반 멀티 에이전트 시스템</li>
         <li><strong>🧠 YourTrendAI</strong> (2024.09~11)<br><em>Python, PyTorch, Docker, Streamlit, Whisper, OpenCV</em><br>유튜브 기반 AI 전문가 토론으로 프로젝트 아이디어 도출</li>
         <li><strong>🎨 인물복원 프로젝트</strong> (2024.09)<br><em>ComfyUI, PyTorch, Docker, Stable Diffusion, Jupyter</em><br>ComfyUI 노드 기반 인물복원 및 LivePortrait 파이프라인</li>
@@ -73,6 +73,7 @@
 <hr>
 
 ## Stats
+
 [![](https://raw.githubusercontent.com/maenjh/maenjh/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/maenjh/maenjh/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/maenjh/maenjh/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/maenjh/maenjh/main/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/maenjh/maenjh/main/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
