@@ -56,7 +56,7 @@
     <h3>📌 Featured Repositories</h3>
     <ul>
         <li><a href="https://github.com/maenjh/korean_legal_instruct"><strong>korean_legal_instruct</strong></a> — 한국어 법률 instruction 데이터셋</li>
-        <li><a href="https://github.com/maenjh/STAI-WaterNavigator"><strong>STAI-WaterNavigator</strong></a> — 수상 안전 내비게이션 시스템</li>
+        <li><a href="https://github.com/maenjh/STAI-WaterNavigator"><strong>STAI-WaterNavigator</strong></a> — 수원지 추천 내비게이션 시스템</li>
         <li><a href="https://github.com/maenjh/A2A-Llama-debate"><strong>A2A-Llama-debate</strong></a> — A2A 기반 Llama 토론 시스템</li>
         <li><a href="https://github.com/maenjh/YourTrend-AI"><strong>YourTrend-AI</strong></a> — 유튜브 기반 AI 아이디어 생성 및 코드 개발</li>
     </ul>
